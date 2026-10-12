@@ -1,0 +1,62 @@
+[gd_scene format=3]
+
+[ext_resource type="Script" path="res://scripts/player.gd" id="1_qhqgy"]
+[ext_resource type="Script" path="res://scripts/character_model.gd" id="2_dqkch"]
+[ext_resource type="AudioStream" path="res://sounds/walking.ogg" id="3_qlg0r"]
+
+[sub_resource type="CapsuleShape3D" id="CapsuleShape3D_tuyoq"]
+radius = 0.32
+height = 1.7
+
+[sub_resource type="Gradient" id="Gradient_fjrip"]
+colors = PackedColorArray(1, 1, 1, 1, 1, 1, 1, 0)
+
+[sub_resource type="GradientTexture2D" id="GradientTexture2D_smehm"]
+gradient = SubResource("Gradient_fjrip")
+fill = 1
+fill_from = Vector2(0.5, 0.5)
+fill_to = Vector2(1, 0.5)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_ur7pv"]
+transparency = 1
+shading_mode = 0
+vertex_color_use_as_albedo = true
+albedo_texture = SubResource("GradientTexture2D_smehm")
+billboard_mode = 1
+
+[sub_resource type="QuadMesh" id="QuadMesh_y4r1p"]
+material = SubResource("StandardMaterial3D_ur7pv")
+size = Vector2(0.5, 0.5)
+
+[sub_resource type="Gradient" id="Gradient_d2wvv"]
+colors = PackedColorArray(1, 1, 1, 0.65, 1, 1, 1, 0)
+
+[node name="Player" type="CharacterBody3D" unique_id=1805306492]
+script = ExtResource("1_qhqgy")
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="." unique_id=156487940]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.85, 0)
+shape = SubResource("CapsuleShape3D_tuyoq")
+
+[node name="Model" type="Node3D" parent="." unique_id=196380950]
+script = ExtResource("2_dqkch")
+
+[node name="Footsteps" type="AudioStreamPlayer" parent="." unique_id=923093738]
+stream = ExtResource("3_qlg0r")
+volume_db = -14.0
+autoplay = true
+
+[node name="Dust" type="CPUParticles3D" parent="." unique_id=147058669]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.1, 0.35)
+emitting = false
+amount = 16
+lifetime = 0.5
+mesh = SubResource("QuadMesh_y4r1p")
+direction = Vector3(0, 0.4, 1)
+spread = 30.0
+gravity = Vector3(0, 0.6, 0)
+initial_velocity_min = 1.5
+initial_velocity_max = 3.0
+scale_amount_min = 0.4
+scale_amount_max = 0.9
+color_ramp = SubResource("Gradient_d2wvv")
