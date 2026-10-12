@@ -251,7 +251,7 @@ func _open_stats() -> void:
 			grid.add_child(dl)
 			grid.add_child(_label("%d ม." % int(r["dist"]), FONT_BODY, 20, col))
 			grid.add_child(_label(str(int(r["stars"])), FONT_BODY, 20, col))
-			grid.add_child(_label(str(int(r["score"])) + ("  ★สูงสุด" if is_best else ""), FONT_BODY, 20, col))
+			grid.add_child(_label(str(int(r["score"])) +    ("  · สูงสุด" if is_best else ""), FONT_BODY, 20, col))
 
 	var lb := Records.leaderboard(5)
 	if lb.size() > 1:

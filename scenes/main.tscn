@@ -1,47 +1,45 @@
-[gd_scene format=4]
+[gd_scene format=4 uid="uid://ifdki07pra6v"]
 
-[ext_resource type="Script" path="res://scripts/main.gd" id="1_2cjbq"]
-[ext_resource type="Script" path="res://scripts/track.gd" id="2_chjal"]
-[ext_resource type="Script" path="res://scripts/school.gd" id="3_cjqg0"]
-[ext_resource type="Script" path="res://scripts/editor_preview.gd" id="4_vchkt"]
-[ext_resource type="PackedScene" path="res://assets/city/props/nature/tree_fat.glb" id="5_txyw0"]
-[ext_resource type="PackedScene" path="res://assets/city/props/nature/flower_redA.glb" id="6_vc5cj"]
-[ext_resource type="PackedScene" path="res://assets/city/buildings/suburban/building-type-c.glb" id="7_nvyfr"]
-[ext_resource type="PackedScene" path="res://assets/city/props/nature/tree_default.glb" id="8_ty1g6"]
-[ext_resource type="PackedScene" path="res://assets/city/props/roads/traffic-light.glb" id="9_j2jfr"]
-[ext_resource type="FontFile" path="res://fonts/Kanit_600SemiBold.ttf" id="10_bjg73"]
-[ext_resource type="PackedScene" path="res://assets/city/buildings/commercial/building-skyscraper-b.glb" id="11_bu4jf"]
-[ext_resource type="PackedScene" path="res://assets/city/buildings/building-small-c.glb" id="12_o7ddy"]
-[ext_resource type="PackedScene" path="res://assets/city/props/nature/tree_thin.glb" id="13_0loja"]
-[ext_resource type="PackedScene" path="res://assets/city/buildings/building-small-d.glb" id="14_ids8r"]
-[ext_resource type="PackedScene" path="res://assets/city/buildings/building-garage.glb" id="15_dnhof"]
-[ext_resource type="PackedScene" path="res://assets/city/props/roads/road-sign-warning.glb" id="16_1v6qk"]
-[ext_resource type="PackedScene" path="res://assets/city/props/roads/dumpster.glb" id="17_augu2"]
-[ext_resource type="PackedScene" path="res://assets/city/buildings/commercial/building-skyscraper-a.glb" id="18_tm6hj"]
-[ext_resource type="PackedScene" path="res://assets/city/buildings/building-small-b.glb" id="19_kf5aa"]
-[ext_resource type="PackedScene" path="res://assets/city/buildings/commercial/building-f.glb" id="20_t5ykj"]
-[ext_resource type="PackedScene" path="res://assets/city/props/nature/tree_oak.glb" id="21_e755i"]
-[ext_resource type="PackedScene" path="res://assets/city/buildings/commercial/building-d.glb" id="22_ro3en"]
-[ext_resource type="PackedScene" path="res://assets/city/buildings/commercial/building-c.glb" id="23_od4ux"]
-[ext_resource type="PackedScene" path="res://assets/city/props/nature/tree_small.glb" id="24_xhfw6"]
-[ext_resource type="PackedScene" path="res://assets/city/buildings/commercial/building-h.glb" id="25_1epgm"]
-[ext_resource type="PackedScene" path="res://assets/city/buildings/suburban/building-type-m.glb" id="26_152kg"]
-[ext_resource type="PackedScene" path="res://assets/city/buildings/suburban/building-type-g.glb" id="27_r4e17"]
-[ext_resource type="PackedScene" path="res://assets/city/buildings/commercial/building-e.glb" id="28_y57op"]
-[ext_resource type="PackedScene" path="res://assets/city/buildings/commercial/building-a.glb" id="29_mlv25"]
-[ext_resource type="PackedScene" path="res://assets/city/props/nature/plant_bushLarge.glb" id="30_a82wo"]
-[ext_resource type="PackedScene" path="res://assets/city/props/nature/flower_purpleA.glb" id="31_gdvew"]
-[ext_resource type="PackedScene" path="res://assets/city/buildings/commercial/building-b.glb" id="32_kjtvk"]
-[ext_resource type="PackedScene" path="res://assets/city/props/roads/construction-cone.glb" id="33_xrs0c"]
-[ext_resource type="PackedScene" path="res://assets/city/props/carkit/box.glb" id="34_xljpf"]
-[ext_resource type="PackedScene" path="res://assets/city/props/roads/construction-barrier.glb" id="35_j4bwh"]
-[ext_resource type="PackedScene" path="res://assets/city/vehicles/vehicle-truck-green.glb" id="36_ksmap"]
-[ext_resource type="PackedScene" path="res://assets/city/vehicles/carkit/taxi.glb" id="37_ygd8o"]
+[ext_resource type="Script" uid="uid://dpy8d0j6hs1bx" path="res://scripts/main.gd" id="1_2cjbq"]
+[ext_resource type="Script" uid="uid://bo30opdue8sec" path="res://scripts/track.gd" id="2_chjal"]
+[ext_resource type="Script" uid="uid://dvgtugb88nutk" path="res://scripts/school.gd" id="3_cjqg0"]
+[ext_resource type="Script" uid="uid://c61lflpdpa37c" path="res://scripts/editor_preview.gd" id="4_vchkt"]
+[ext_resource type="PackedScene" uid="uid://ccee4frsp5uov" path="res://assets/city/props/nature/tree_fat.glb" id="5_txyw0"]
+[ext_resource type="PackedScene" uid="uid://dgqx3hofvmj0" path="res://assets/city/props/nature/flower_redA.glb" id="6_vc5cj"]
+[ext_resource type="PackedScene" uid="uid://caooq800n5101" path="res://assets/city/buildings/suburban/building-type-c.glb" id="7_nvyfr"]
+[ext_resource type="PackedScene" uid="uid://bqgujrebib2f3" path="res://assets/city/props/nature/tree_default.glb" id="8_ty1g6"]
+[ext_resource type="PackedScene" uid="uid://h0nyhh5npffi" path="res://assets/city/props/roads/traffic-light.glb" id="9_j2jfr"]
+[ext_resource type="FontFile" uid="uid://dfol020ck0a1h" path="res://fonts/Kanit_600SemiBold.ttf" id="10_bjg73"]
+[ext_resource type="PackedScene" uid="uid://5mbirgloy6qo" path="res://assets/city/buildings/commercial/building-skyscraper-b.glb" id="11_bu4jf"]
+[ext_resource type="PackedScene" uid="uid://b03djlq1jeovl" path="res://assets/city/buildings/building-small-c.glb" id="12_o7ddy"]
+[ext_resource type="PackedScene" uid="uid://cg3eyinhh5l4v" path="res://assets/city/props/nature/tree_thin.glb" id="13_0loja"]
+[ext_resource type="PackedScene" uid="uid://hxjfiseh6pd7" path="res://assets/city/buildings/building-small-d.glb" id="14_ids8r"]
+[ext_resource type="PackedScene" uid="uid://bvlxpfc7q7trs" path="res://assets/city/buildings/building-garage.glb" id="15_dnhof"]
+[ext_resource type="PackedScene" uid="uid://kiyp3rs57deg" path="res://assets/city/props/roads/road-sign-warning.glb" id="16_1v6qk"]
+[ext_resource type="PackedScene" uid="uid://lfedid7oiata" path="res://assets/city/props/roads/dumpster.glb" id="17_augu2"]
+[ext_resource type="PackedScene" uid="uid://b61xlkrey0eql" path="res://assets/city/buildings/commercial/building-skyscraper-a.glb" id="18_tm6hj"]
+[ext_resource type="PackedScene" uid="uid://cm4mbsp1bfusq" path="res://assets/city/buildings/building-small-b.glb" id="19_kf5aa"]
+[ext_resource type="PackedScene" uid="uid://nv6801ivc0wl" path="res://assets/city/buildings/commercial/building-f.glb" id="20_t5ykj"]
+[ext_resource type="PackedScene" uid="uid://bpom5hiwe63ar" path="res://assets/city/props/nature/tree_oak.glb" id="21_e755i"]
+[ext_resource type="PackedScene" uid="uid://ib6rf8eg7dt3" path="res://assets/city/buildings/commercial/building-d.glb" id="22_ro3en"]
+[ext_resource type="PackedScene" uid="uid://cyyjh4ie86ggr" path="res://assets/city/buildings/commercial/building-c.glb" id="23_od4ux"]
+[ext_resource type="PackedScene" uid="uid://dtsw2ktsp5sr8" path="res://assets/city/props/nature/tree_small.glb" id="24_xhfw6"]
+[ext_resource type="PackedScene" uid="uid://bb84kpionbtyn" path="res://assets/city/buildings/commercial/building-h.glb" id="25_1epgm"]
+[ext_resource type="PackedScene" uid="uid://cnir55lqtgaca" path="res://assets/city/buildings/suburban/building-type-m.glb" id="26_152kg"]
+[ext_resource type="PackedScene" uid="uid://bpx0kqpxcw7la" path="res://assets/city/buildings/suburban/building-type-g.glb" id="27_r4e17"]
+[ext_resource type="PackedScene" uid="uid://chyiukj3wt7bs" path="res://assets/city/buildings/commercial/building-e.glb" id="28_y57op"]
+[ext_resource type="PackedScene" uid="uid://btdyqx0c3kslg" path="res://assets/city/buildings/commercial/building-a.glb" id="29_mlv25"]
+[ext_resource type="PackedScene" uid="uid://f724haa456q3" path="res://assets/city/props/nature/plant_bushLarge.glb" id="30_a82wo"]
+[ext_resource type="PackedScene" uid="uid://bod4ynoyhpvys" path="res://assets/city/props/nature/flower_purpleA.glb" id="31_gdvew"]
+[ext_resource type="PackedScene" uid="uid://b131ktbfqvs4q" path="res://assets/city/buildings/commercial/building-b.glb" id="32_kjtvk"]
+[ext_resource type="PackedScene" uid="uid://c3yno73d7ggch" path="res://assets/city/props/roads/construction-cone.glb" id="33_xrs0c"]
+[ext_resource type="PackedScene" uid="uid://bbtljn4dt83rl" path="res://assets/city/props/carkit/box.glb" id="34_xljpf"]
+[ext_resource type="PackedScene" uid="uid://bnkb47q0h07dg" path="res://assets/city/props/roads/construction-barrier.glb" id="35_j4bwh"]
+[ext_resource type="PackedScene" uid="uid://17gmci3llvr" path="res://assets/city/vehicles/vehicle-truck-green.glb" id="36_ksmap"]
+[ext_resource type="PackedScene" uid="uid://blbdhfpp8lx1a" path="res://assets/city/vehicles/carkit/taxi.glb" id="37_ygd8o"]
 [ext_resource type="PackedScene" path="res://scenes/player.tscn" id="38_2s0kr"]
-[ext_resource type="Script" path="res://scripts/player.gd" id="39_xaipn"]
 [ext_resource type="PackedScene" path="res://scenes/teacher.tscn" id="40_ndrjj"]
-[ext_resource type="Script" path="res://scripts/teacher.gd" id="41_ih3m7"]
-[ext_resource type="Script" path="res://scripts/game_ui.gd" id="42_11yus"]
+[ext_resource type="Script" uid="uid://dih6b4cv13wll" path="res://scripts/game_ui.gd" id="42_11yus"]
 
 [sub_resource type="ProceduralSkyMaterial" id="ProceduralSkyMaterial_b6ruc"]
 sky_top_color = Color(0.26, 0.58, 1, 1)
@@ -1863,7 +1861,7 @@ transform = Transform3D(0.9734458, 0, 0, 0, 0.9734458, 0, 0, 0, 0.9734458, -5.7,
 
 [node name="Node3D" type="Node3D" parent="EditorPreview/Street/Chunk-2/Tree" unique_id=1930973755]
 
-[node name="tree_fat2" type="Node3D" parent="EditorPreview/Street/Chunk-2/Tree/Node3D" unique_id=501098607 instance=ExtResource("5_txyw0")]
+[node name="tree_fat2" parent="EditorPreview/Street/Chunk-2/Tree/Node3D" unique_id=501098607 instance=ExtResource("5_txyw0")]
 transform = Transform3D(-2.402748, 0, -2.6876702, 0, 3.6051033, 0, 2.6876702, 0, -2.402748, 0, 0.18025517, 0)
 
 [node name="Hydrant" type="Node3D" parent="EditorPreview/Street/Chunk-2" unique_id=1281403532]
@@ -1887,7 +1885,7 @@ mesh = SubResource("BoxMesh_akjxb")
 [node name="KenneyProp" type="Node3D" parent="EditorPreview/Street/Chunk-2" unique_id=1392965793]
 transform = Transform3D(0.068946056, 0, 0.9976204, 0, 1, 0, -0.9976204, 0, 0.068946056, -5.8, 0.12, 25.309)
 
-[node name="flower_redA2" type="Node3D" parent="EditorPreview/Street/Chunk-2/KenneyProp" unique_id=189007258 instance=ExtResource("6_vc5cj")]
+[node name="flower_redA2" parent="EditorPreview/Street/Chunk-2/KenneyProp" unique_id=189007258 instance=ExtResource("6_vc5cj")]
 transform = Transform3D(1.6071348, 0, -0.5823847, 0, 1.7094017, 0, 0.5823847, 0, 1.6071348, 0.040155448, 0.08547009, 0.014551315)
 
 [node name="Pedestrian" type="Node3D" parent="EditorPreview/Street/Chunk-2" unique_id=122554690]
@@ -1931,7 +1929,7 @@ mesh = SubResource("BoxMesh_engxj")
 [node name="Building" type="Node3D" parent="EditorPreview/Street/Chunk-2" unique_id=2856673]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 11.317234, 0, 30)
 
-[node name="building-type-c2" type="Node3D" parent="EditorPreview/Street/Chunk-2/Building" unique_id=1726067045 instance=ExtResource("7_nvyfr")]
+[node name="building-type-c2" parent="EditorPreview/Street/Chunk-2/Building" unique_id=1726067045 instance=ExtResource("7_nvyfr")]
 transform = Transform3D(7.800545, 0, 0, 0, 7.800545, 0, 0, 0, 7.800545, 0, 0, 0)
 
 [node name="Node3D" type="Node3D" parent="EditorPreview/Street/Chunk-2" unique_id=1185359943]
@@ -1939,7 +1937,7 @@ transform = Transform3D(0.9385111, 0, 0, 0, 0.9385111, 0, 0, 0, 0.9385111, 5.7, 
 
 [node name="Node3D" type="Node3D" parent="EditorPreview/Street/Chunk-2/Node3D" unique_id=1959366649]
 
-[node name="tree_default2" type="Node3D" parent="EditorPreview/Street/Chunk-2/Node3D/Node3D" unique_id=397957201 instance=ExtResource("8_ty1g6")]
+[node name="tree_default2" parent="EditorPreview/Street/Chunk-2/Node3D/Node3D" unique_id=397957201 instance=ExtResource("8_ty1g6")]
 transform = Transform3D(-1.389223, 0, -2.2924805, 0, 2.680561, 0, 2.2924805, 0, -1.389223, 0, 0.13402805, 0)
 
 [node name="StrayCat" type="Node3D" parent="EditorPreview/Street/Chunk-2" unique_id=2103513222]
@@ -2028,7 +2026,7 @@ mesh = SubResource("ArrayMesh_yton5")
 [node name="KenneyProp" type="Node3D" parent="EditorPreview/Street/Chunk-1" unique_id=342474919]
 transform = Transform3D(-0.13807938, 0, 0.9904212, 0, 1, 0, -0.9904212, 0, -0.13807938, -4.5, 0.12, 6.688854)
 
-[node name="traffic-light2" type="Node3D" parent="EditorPreview/Street/Chunk-1/KenneyProp" unique_id=1580965859 instance=ExtResource("9_j2jfr")]
+[node name="traffic-light2" parent="EditorPreview/Street/Chunk-1/KenneyProp" unique_id=1580965859 instance=ExtResource("9_j2jfr")]
 transform = Transform3D(8.15534, 0, 0, 0, 8.15534, 0, 0, 0, 8.15534, 0.11254372, -1.8396964e-16, 0)
 
 [node name="VendorCart" type="Node3D" parent="EditorPreview/Street/Chunk-1" unique_id=907554197]
@@ -2128,13 +2126,13 @@ font_size = 60
 [node name="Building" type="Node3D" parent="EditorPreview/Street/Chunk-1" unique_id=171537850]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 11.743071, 0, 15)
 
-[node name="building-skyscraper-b2" type="Node3D" parent="EditorPreview/Street/Chunk-1/Building" unique_id=1461130666 instance=ExtResource("11_bu4jf")]
+[node name="building-skyscraper-b2" parent="EditorPreview/Street/Chunk-1/Building" unique_id=1461130666 instance=ExtResource("11_bu4jf")]
 transform = Transform3D(7.0588245, 0, 0, 0, 7.0588245, 0, 0, 0, 7.0588245, 5.0488648e-06, 0, 0)
 
 [node name="Node3D" type="Node3D" parent="EditorPreview/Street/Chunk-1" unique_id=1168801664]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 11.172683, 0, 5)
 
-[node name="building-small-c2" type="Node3D" parent="EditorPreview/Street/Chunk-1/Node3D" unique_id=290132657 instance=ExtResource("12_o7ddy")]
+[node name="building-small-c2" parent="EditorPreview/Street/Chunk-1/Node3D" unique_id=290132657 instance=ExtResource("12_o7ddy")]
 transform = Transform3D(9.6, 0, 0, 0, 9.6, 0, 0, 0, 9.6, 0, 0, 0)
 
 [node name="StreetLamp" type="Node3D" parent="EditorPreview/Street/Chunk-1" unique_id=1028920183]
@@ -2171,7 +2169,7 @@ mesh = SubResource("CylinderMesh_2cjf7")
 [node name="Node3D2" type="Node3D" parent="EditorPreview/Street/Chunk-1" unique_id=2092361165]
 transform = Transform3D(0.054724477, 0, -0.9985015, 0, 1, 0, 0.9985015, 0, 0.054724477, 5.8, 0.12, 16.268467)
 
-[node name="traffic-light2" type="Node3D" parent="EditorPreview/Street/Chunk-1/Node3D2" unique_id=916741440 instance=ExtResource("9_j2jfr")]
+[node name="traffic-light2" parent="EditorPreview/Street/Chunk-1/Node3D2" unique_id=916741440 instance=ExtResource("9_j2jfr")]
 transform = Transform3D(8.15534, 0, 0, 0, 8.15534, 0, 0, 0, 8.15534, 0.11254372, -1.8396964e-16, 0)
 
 [node name="Chunk0" type="Node3D" parent="EditorPreview/Street" unique_id=580259024]
@@ -2204,7 +2202,7 @@ transform = Transform3D(1.1725335, 0, 0, 0, 1.1725335, 0, 0, 0, 1.1725335, -5.7,
 
 [node name="Node3D" type="Node3D" parent="EditorPreview/Street/Chunk0/Tree" unique_id=1326661614]
 
-[node name="tree_thin2" type="Node3D" parent="EditorPreview/Street/Chunk0/Tree/Node3D" unique_id=9085689 instance=ExtResource("13_0loja")]
+[node name="tree_thin2" parent="EditorPreview/Street/Chunk0/Tree/Node3D" unique_id=9085689 instance=ExtResource("13_0loja")]
 transform = Transform3D(2.3738747, 0, 1.8523148, 0, 3.011038, 0, -1.8523148, 0, 2.3738747, -0.30167028, 0.1505519, 0.018507227)
 
 [node name="Bin" type="Node3D" parent="EditorPreview/Street/Chunk0" unique_id=1866258617]
@@ -2261,13 +2259,13 @@ mesh = SubResource("BoxMesh_ga3rw")
 [node name="Building" type="Node3D" parent="EditorPreview/Street/Chunk0" unique_id=1234288670]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 11.532905, 0, -5)
 
-[node name="building-small-d2" type="Node3D" parent="EditorPreview/Street/Chunk0/Building" unique_id=371295455 instance=ExtResource("14_ids8r")]
+[node name="building-small-d2" parent="EditorPreview/Street/Chunk0/Building" unique_id=371295455 instance=ExtResource("14_ids8r")]
 transform = Transform3D(9.142858, 0, 0, 0, 9.142858, 0, 0, 0, 9.142858, 0, 0, -0.22857124)
 
 [node name="Node3D" type="Node3D" parent="EditorPreview/Street/Chunk0" unique_id=1412333054]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 9.969804, 0, -15)
 
-[node name="building-garage2" type="Node3D" parent="EditorPreview/Street/Chunk0/Node3D" unique_id=1088258160 instance=ExtResource("15_dnhof")]
+[node name="building-garage2" parent="EditorPreview/Street/Chunk0/Node3D" unique_id=1088258160 instance=ExtResource("15_dnhof")]
 transform = Transform3D(7.3396077, 0, 0, 0, 7.3396077, 0, 0, 0, 7.3396077, 0, 0, 0)
 
 [node name="Node3D2" type="Node3D" parent="EditorPreview/Street/Chunk0" unique_id=1850933422]
@@ -2275,7 +2273,7 @@ transform = Transform3D(0.9495472, 0, 0, 0, 0.9495472, 0, 0, 0, 0.9495472, 5.7, 
 
 [node name="Node3D" type="Node3D" parent="EditorPreview/Street/Chunk0/Node3D2" unique_id=669054165]
 
-[node name="tree_fat2" type="Node3D" parent="EditorPreview/Street/Chunk0/Node3D2/Node3D" unique_id=369569841 instance=ExtResource("5_txyw0")]
+[node name="tree_fat2" parent="EditorPreview/Street/Chunk0/Node3D2/Node3D" unique_id=369569841 instance=ExtResource("5_txyw0")]
 transform = Transform3D(-2.2487676, 0, 2.7160773, 0, 3.5261922, 0, -2.7160773, 0, -2.2487676, 0, 0.17630962, 0)
 
 [node name="Node3D3" type="Node3D" parent="EditorPreview/Street/Chunk0" unique_id=627820477]
@@ -2294,7 +2292,7 @@ mesh = SubResource("CylinderMesh_1m7le")
 [node name="KenneyProp" type="Node3D" parent="EditorPreview/Street/Chunk0" unique_id=1504558781]
 transform = Transform3D(0.10639028, 0, -0.99432445, 0, 1, 0, 0.99432445, 0, 0.10639028, 4.5, 0.12, -13.045656)
 
-[node name="road-sign-warning2" type="Node3D" parent="EditorPreview/Street/Chunk0/KenneyProp" unique_id=845708222 instance=ExtResource("16_1v6qk")]
+[node name="road-sign-warning2" parent="EditorPreview/Street/Chunk0/KenneyProp" unique_id=845708222 instance=ExtResource("16_1v6qk")]
 transform = Transform3D(4.8138413, 0, 0, 0, 4.8138413, 0, 0, 0, 4.8138413, 0.06054358, 0, 0)
 
 [node name="Pedestrian" type="Node3D" parent="EditorPreview/Street/Chunk0" unique_id=2121472763]
@@ -2345,7 +2343,7 @@ mesh = SubResource("ArrayMesh_avynn")
 [node name="KenneyProp" type="Node3D" parent="EditorPreview/Street/Chunk1" unique_id=886332743]
 transform = Transform3D(-0.014544852, 0, 0.9998942, 0, 1, 0, -0.9998942, 0, -0.014544852, -5.8, 0.12, -32.060287)
 
-[node name="dumpster2" type="Node3D" parent="EditorPreview/Street/Chunk1/KenneyProp" unique_id=21007107 instance=ExtResource("17_augu2")]
+[node name="dumpster2" parent="EditorPreview/Street/Chunk1/KenneyProp" unique_id=21007107 instance=ExtResource("17_augu2")]
 transform = Transform3D(6.206976, 0, 0, 0, 6.206976, 0, 0, 0, 6.206976, -0.046552368, 0, -7.399292e-07)
 
 [node name="SleepyBench" type="Node3D" parent="EditorPreview/Street/Chunk1" unique_id=215321113]
@@ -2408,7 +2406,7 @@ font_size = 64
 [node name="Building" type="Node3D" parent="EditorPreview/Street/Chunk1" unique_id=1532945471]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 10.593131, 0, -30)
 
-[node name="building-skyscraper-a2" type="Node3D" parent="EditorPreview/Street/Chunk1/Building" unique_id=1482535851 instance=ExtResource("18_tm6hj")]
+[node name="building-skyscraper-a2" parent="EditorPreview/Street/Chunk1/Building" unique_id=1482535851 instance=ExtResource("18_tm6hj")]
 transform = Transform3D(6.313429, 0, 0, 0, 6.313429, 0, 0, 0, 6.313429, 3.0104775e-06, 0, 0)
 
 [node name="StreetLamp" type="Node3D" parent="EditorPreview/Street/Chunk1" unique_id=1982296924]
@@ -2432,7 +2430,7 @@ mesh = SubResource("BoxMesh_4ue30")
 [node name="Node3D" type="Node3D" parent="EditorPreview/Street/Chunk1" unique_id=1049254362]
 transform = Transform3D(-0.110974066, 0, -0.9938233, 0, 1, 0, 0.9938233, 0, -0.110974066, 4.5, 0.12, -26.39167)
 
-[node name="traffic-light2" type="Node3D" parent="EditorPreview/Street/Chunk1/Node3D" unique_id=1696523029 instance=ExtResource("9_j2jfr")]
+[node name="traffic-light2" parent="EditorPreview/Street/Chunk1/Node3D" unique_id=1696523029 instance=ExtResource("9_j2jfr")]
 transform = Transform3D(8.15534, 0, 0, 0, 8.15534, 0, 0, 0, 8.15534, 0.11254372, -1.8396964e-16, 0)
 
 [node name="StrayCat" type="Node3D" parent="EditorPreview/Street/Chunk1" unique_id=580741515]
@@ -2483,13 +2481,13 @@ mesh = SubResource("ArrayMesh_m4lup")
 [node name="Building" type="Node3D" parent="EditorPreview/Street/Chunk2" unique_id=1558821557]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -9.88737, 0, -45)
 
-[node name="building-small-b2" type="Node3D" parent="EditorPreview/Street/Chunk2/Building" unique_id=498535686 instance=ExtResource("19_kf5aa")]
+[node name="building-small-b2" parent="EditorPreview/Street/Chunk2/Building" unique_id=498535686 instance=ExtResource("19_kf5aa")]
 transform = Transform3D(7.1747403, 0, 0, 0, 7.1747403, 0, 0, 0, 7.1747403, 0, 0, 0)
 
 [node name="Node3D" type="Node3D" parent="EditorPreview/Street/Chunk2" unique_id=1696305900]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -11.195421, 0, -55)
 
-[node name="building-f2" type="Node3D" parent="EditorPreview/Street/Chunk2/Node3D" unique_id=2061111497 instance=ExtResource("20_t5ykj")]
+[node name="building-f2" parent="EditorPreview/Street/Chunk2/Node3D" unique_id=2061111497 instance=ExtResource("20_t5ykj")]
 transform = Transform3D(9.320387, 0, 0, 0, 9.320387, 0, 0, 0, 9.320387, 0, 0, -1.1110767e-06)
 
 [node name="StreetLamp" type="Node3D" parent="EditorPreview/Street/Chunk2" unique_id=328193348]
@@ -2515,7 +2513,7 @@ transform = Transform3D(0.8739493, 0, 0, 0, 0.8739493, 0, 0, 0, 0.8739493, -5.7,
 
 [node name="Node3D" type="Node3D" parent="EditorPreview/Street/Chunk2/Tree" unique_id=448845320]
 
-[node name="tree_oak2" type="Node3D" parent="EditorPreview/Street/Chunk2/Tree/Node3D" unique_id=1957195281 instance=ExtResource("21_e755i")]
+[node name="tree_oak2" parent="EditorPreview/Street/Chunk2/Tree/Node3D" unique_id=1957195281 instance=ExtResource("21_e755i")]
 transform = Transform3D(-2.7957644, 0, 2.4127653, 0, 3.6929302, 0, -2.4127653, 0, -2.7957644, -2.201158e-07, 0.18464652, -1.100579e-07)
 
 [node name="Bin" type="Node3D" parent="EditorPreview/Street/Chunk2" unique_id=357560015]
@@ -2534,7 +2532,7 @@ mesh = SubResource("CylinderMesh_8ojta")
 [node name="KenneyProp" type="Node3D" parent="EditorPreview/Street/Chunk2" unique_id=1487067465]
 transform = Transform3D(0.12565824, 0, 0.9920736, 0, 1, 0, -0.9920736, 0, 0.12565824, -4.5, 0.12, -52.567368)
 
-[node name="road-sign-warning2" type="Node3D" parent="EditorPreview/Street/Chunk2/KenneyProp" unique_id=715531292 instance=ExtResource("16_1v6qk")]
+[node name="road-sign-warning2" parent="EditorPreview/Street/Chunk2/KenneyProp" unique_id=715531292 instance=ExtResource("16_1v6qk")]
 transform = Transform3D(4.8138413, 0, 0, 0, 4.8138413, 0, 0, 0, 4.8138413, 0.06054358, 0, 0)
 
 [node name="VendorCart" type="Node3D" parent="EditorPreview/Street/Chunk2" unique_id=272995589]
@@ -2634,7 +2632,7 @@ font_size = 60
 [node name="Node3D2" type="Node3D" parent="EditorPreview/Street/Chunk2" unique_id=574855304]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 11.757728, 0, -50)
 
-[node name="building-small-b2" type="Node3D" parent="EditorPreview/Street/Chunk2/Node3D2" unique_id=774334111 instance=ExtResource("19_kf5aa")]
+[node name="building-small-b2" parent="EditorPreview/Street/Chunk2/Node3D2" unique_id=774334111 instance=ExtResource("19_kf5aa")]
 transform = Transform3D(10.915456, 0, 0, 0, 10.915456, 0, 0, 0, 10.915456, 0, 0, 0)
 
 [node name="StrayCat" type="Node3D" parent="EditorPreview/Street/Chunk2" unique_id=1779706055]
@@ -2685,7 +2683,7 @@ mesh = SubResource("ArrayMesh_m5a64")
 [node name="Building" type="Node3D" parent="EditorPreview/Street/Chunk3" unique_id=1574031191]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -9.888689, 0, -70)
 
-[node name="building-d2" type="Node3D" parent="EditorPreview/Street/Chunk3/Building" unique_id=1732069024 instance=ExtResource("22_ro3en")]
+[node name="building-d2" parent="EditorPreview/Street/Chunk3/Building" unique_id=1732069024 instance=ExtResource("22_ro3en")]
 transform = Transform3D(8.544497, 0, 0, 0, 8.544497, 0, 0, 0, 8.544497, -2.5464584e-07, 0, 1.0185834e-06)
 
 [node name="Tree" type="Node3D" parent="EditorPreview/Street/Chunk3" unique_id=1419748502]
@@ -2693,7 +2691,7 @@ transform = Transform3D(0.98769736, 0, 0.07491368, 0, 0.99053425, 0, -0.07491368
 
 [node name="Node3D" type="Node3D" parent="EditorPreview/Street/Chunk3/Tree" unique_id=499608973]
 
-[node name="tree_fat2" type="Node3D" parent="EditorPreview/Street/Chunk3/Tree/Node3D" unique_id=1220112037 instance=ExtResource("5_txyw0")]
+[node name="tree_fat2" parent="EditorPreview/Street/Chunk3/Tree/Node3D" unique_id=1220112037 instance=ExtResource("5_txyw0")]
 transform = Transform3D(3.2041576, 0, 2.198426, 0, 3.8858335, 0, -2.198426, 0, 3.2041576, 0, 0.19429168, 0)
 
 [node name="Hydrant" type="Node3D" parent="EditorPreview/Street/Chunk3" unique_id=1201980408]
@@ -2717,7 +2715,7 @@ mesh = SubResource("BoxMesh_akjxb")
 [node name="KenneyProp" type="Node3D" parent="EditorPreview/Street/Chunk3" unique_id=1066530782]
 transform = Transform3D(-0.04168082, 0, 0.99913096, 0, 1, 0, -0.99913096, 0, -0.04168082, -4.5, 0.12, -62.356873)
 
-[node name="traffic-light2" type="Node3D" parent="EditorPreview/Street/Chunk3/KenneyProp" unique_id=1779359832 instance=ExtResource("9_j2jfr")]
+[node name="traffic-light2" parent="EditorPreview/Street/Chunk3/KenneyProp" unique_id=1779359832 instance=ExtResource("9_j2jfr")]
 transform = Transform3D(8.15534, 0, 0, 0, 8.15534, 0, 0, 0, 8.15534, 0.11254372, -1.8396964e-16, 0)
 
 [node name="Pedestrian" type="Node3D" parent="EditorPreview/Street/Chunk3" unique_id=410972644]
@@ -2761,13 +2759,13 @@ mesh = SubResource("BoxMesh_engxj")
 [node name="Node3D" type="Node3D" parent="EditorPreview/Street/Chunk3" unique_id=1689999961]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 11.1547785, 0, -65)
 
-[node name="building-c2" type="Node3D" parent="EditorPreview/Street/Chunk3/Node3D" unique_id=795975355 instance=ExtResource("23_od4ux")]
+[node name="building-c2" parent="EditorPreview/Street/Chunk3/Node3D" unique_id=795975355 instance=ExtResource("23_od4ux")]
 transform = Transform3D(8.807339, 0, 0, 0, 8.807339, 0, 0, 0, 8.807339, -2.6247915e-07, 0, -5.249583e-07)
 
 [node name="Node3D2" type="Node3D" parent="EditorPreview/Street/Chunk3" unique_id=1950327478]
 transform = Transform3D(0.9983187, 0, 0.057963993, 0, 1, 0, -0.057963993, 0, 0.9983187, 10.059973, 0, -75.589714)
 
-[node name="building-small-b2" type="Node3D" parent="EditorPreview/Street/Chunk3/Node3D2" unique_id=1410501801 instance=ExtResource("19_kf5aa")]
+[node name="building-small-b2" parent="EditorPreview/Street/Chunk3/Node3D2" unique_id=1410501801 instance=ExtResource("19_kf5aa")]
 transform = Transform3D(7.844219, 0, 0, 0, 7.844219, 0, 0, 0, 7.844219, 0, 0, 0)
 
 [node name="StreetLamp" type="Node3D" parent="EditorPreview/Street/Chunk3" unique_id=1979524434]
@@ -2809,7 +2807,7 @@ mesh = SubResource("BoxMesh_akjxb")
 [node name="Node3D4" type="Node3D" parent="EditorPreview/Street/Chunk3" unique_id=2036644353]
 transform = Transform3D(0.18261808, 0, -0.9831839, 0, 1, 0, 0.9831839, 0, 0.18261808, 5.7041106, 0.12, -74.19962)
 
-[node name="traffic-light2" type="Node3D" parent="EditorPreview/Street/Chunk3/Node3D4" unique_id=138262073 instance=ExtResource("9_j2jfr")]
+[node name="traffic-light2" parent="EditorPreview/Street/Chunk3/Node3D4" unique_id=138262073 instance=ExtResource("9_j2jfr")]
 transform = Transform3D(8.15534, 0, 0, 0, 8.15534, 0, 0, 0, 8.15534, 0.11254372, -1.8396964e-16, 0)
 
 [node name="Chunk4" type="Node3D" parent="EditorPreview/Street" unique_id=29808686]
@@ -2822,13 +2820,13 @@ mesh = SubResource("ArrayMesh_2b86i")
 [node name="Building" type="Node3D" parent="EditorPreview/Street/Chunk4" unique_id=2068670257]
 transform = Transform3D(0.98490196, 0, 0.17311299, 0, 1, 0, -0.17311299, 0, 0.98490196, -12.3426285, 0, -82.983795)
 
-[node name="building-skyscraper-a2" type="Node3D" parent="EditorPreview/Street/Chunk4/Building" unique_id=1999709666 instance=ExtResource("18_tm6hj")]
+[node name="building-skyscraper-a2" parent="EditorPreview/Street/Chunk4/Building" unique_id=1999709666 instance=ExtResource("18_tm6hj")]
 transform = Transform3D(7.058823, 0, 0, 0, 7.058823, 0, 0, 0, 7.058823, 3.3659092e-06, 0, 0)
 
 [node name="Node3D" type="Node3D" parent="EditorPreview/Street/Chunk4" unique_id=2089767054]
 transform = Transform3D(0.95824885, 0, 0.28593546, 0, 1, 0, -0.28593546, 0, 0.95824885, -13.301189, 0, -91.75616)
 
-[node name="building-small-d2" type="Node3D" parent="EditorPreview/Street/Chunk4/Node3D" unique_id=1665016599 instance=ExtResource("14_ids8r")]
+[node name="building-small-d2" parent="EditorPreview/Street/Chunk4/Node3D" unique_id=1665016599 instance=ExtResource("14_ids8r")]
 transform = Transform3D(7.6488895, 0, 0, 0, 7.6488895, 0, 0, 0, 7.6488895, 0, 0, -0.19122206)
 
 [node name="StreetLamp" type="Node3D" parent="EditorPreview/Street/Chunk4" unique_id=1766123946]
@@ -2854,7 +2852,7 @@ transform = Transform3D(0.87990725, 0, 0.20122747, 0, 0.9026236, 0, -0.20122747,
 
 [node name="Node3D" type="Node3D" parent="EditorPreview/Street/Chunk4/Tree" unique_id=1482452173]
 
-[node name="tree_thin2" type="Node3D" parent="EditorPreview/Street/Chunk4/Tree/Node3D" unique_id=1837912266 instance=ExtResource("13_0loja")]
+[node name="tree_thin2" parent="EditorPreview/Street/Chunk4/Tree/Node3D" unique_id=1837912266 instance=ExtResource("13_0loja")]
 transform = Transform3D(1.7296305, 0, 1.3773991, 0, 2.2110744, 0, -1.3773991, 0, 1.7296305, -0.22137786, 0.11055372, 0.01578413)
 
 [node name="StrayCat" type="Node3D" parent="EditorPreview/Street/Chunk4" unique_id=775407592]
@@ -2898,7 +2896,7 @@ mesh = SubResource("BoxMesh_ga3rw")
 [node name="Node3D2" type="Node3D" parent="EditorPreview/Street/Chunk4" unique_id=1617857854]
 transform = Transform3D(0.9732117, 0, 0.22991078, 0, 1, 0, -0.22991078, 0, 0.9732117, 8.260099, 0, -92.31804)
 
-[node name="building-f2" type="Node3D" parent="EditorPreview/Street/Chunk4/Node3D2" unique_id=170904209 instance=ExtResource("20_t5ykj")]
+[node name="building-f2" parent="EditorPreview/Street/Chunk4/Node3D2" unique_id=170904209 instance=ExtResource("20_t5ykj")]
 transform = Transform3D(10.858354, 0, 0, 0, 10.858354, 0, 0, 0, 10.858354, 0, 0, -1.2944166e-06)
 
 [node name="Node3D3" type="Node3D" parent="EditorPreview/Street/Chunk4" unique_id=143979719]
@@ -2906,13 +2904,13 @@ transform = Transform3D(0.84756345, 0, 0.26840737, 0, 0.889048, 0, -0.26840737, 
 
 [node name="Node3D" type="Node3D" parent="EditorPreview/Street/Chunk4/Node3D3" unique_id=1126600083]
 
-[node name="tree_small2" type="Node3D" parent="EditorPreview/Street/Chunk4/Node3D3/Node3D" unique_id=1356034132 instance=ExtResource("24_xhfw6")]
+[node name="tree_small2" parent="EditorPreview/Street/Chunk4/Node3D3/Node3D" unique_id=1356034132 instance=ExtResource("24_xhfw6")]
 transform = Transform3D(3.612203, 0, 0.31972596, 0, 3.6263251, 0, -0.31972596, 0, 3.612203, 0, 0.18131626, 0)
 
 [node name="KenneyProp" type="Node3D" parent="EditorPreview/Street/Chunk4" unique_id=782738912]
 transform = Transform3D(0.2532863, 0, -0.9673914, 0, 1, 0, 0.9673914, 0, 0.2532863, 0.5111569, 0.12, -96.60379)
 
-[node name="dumpster2" type="Node3D" parent="EditorPreview/Street/Chunk4/KenneyProp" unique_id=1028463584 instance=ExtResource("17_augu2")]
+[node name="dumpster2" parent="EditorPreview/Street/Chunk4/KenneyProp" unique_id=1028463584 instance=ExtResource("17_augu2")]
 transform = Transform3D(6.206976, 0, 0, 0, 6.206976, 0, 0, 0, 6.206976, -0.046552368, 0, -7.399292e-07)
 
 [node name="Chunk5" type="Node3D" parent="EditorPreview/Street" unique_id=1255436871]
@@ -2925,13 +2923,13 @@ mesh = SubResource("ArrayMesh_34ffc")
 [node name="Building" type="Node3D" parent="EditorPreview/Street/Chunk5" unique_id=696210033]
 transform = Transform3D(0.91871756, 0, 0.39491516, 0, 1, 0, -0.39491516, 0, 0.91871756, -16.131779, 0, -100.12436)
 
-[node name="building-c2" type="Node3D" parent="EditorPreview/Street/Chunk5/Building" unique_id=502532441 instance=ExtResource("23_od4ux")]
+[node name="building-c2" parent="EditorPreview/Street/Chunk5/Building" unique_id=502532441 instance=ExtResource("23_od4ux")]
 transform = Transform3D(8.2199135, 0, 0, 0, 8.2199135, 0, 0, 0, 8.2199135, -2.449725e-07, 0, -4.89945e-07)
 
 [node name="Node3D" type="Node3D" parent="EditorPreview/Street/Chunk5" unique_id=768134309]
 transform = Transform3D(0.8668394, 0, 0.49858746, 0, 1, 0, -0.49858746, 0, 0.8668394, -20.432438, 0, -107.83505)
 
-[node name="building-h2" type="Node3D" parent="EditorPreview/Street/Chunk5/Node3D" unique_id=507901989 instance=ExtResource("25_1epgm")]
+[node name="building-h2" parent="EditorPreview/Street/Chunk5/Node3D" unique_id=507901989 instance=ExtResource("25_1epgm")]
 transform = Transform3D(9.1165, 0, 0, 0, 9.1165, 0, 0, 0, 9.1165, 0, 0, 5.4338574e-07)
 
 [node name="Tree" type="Node3D" parent="EditorPreview/Street/Chunk5" unique_id=175217401]
@@ -2939,7 +2937,7 @@ transform = Transform3D(0.80716914, 0, 0.4331784, 0, 0.9160598, 0, -0.4331784, 0
 
 [node name="Node3D" type="Node3D" parent="EditorPreview/Street/Chunk5/Tree" unique_id=1745549609]
 
-[node name="tree_oak2" type="Node3D" parent="EditorPreview/Street/Chunk5/Tree/Node3D" unique_id=2102064210 instance=ExtResource("21_e755i")]
+[node name="tree_oak2" parent="EditorPreview/Street/Chunk5/Tree/Node3D" unique_id=2102064210 instance=ExtResource("21_e755i")]
 transform = Transform3D(2.9947345, 0, 2.2375035, 0, 3.738296, 0, -2.2375035, 0, 2.9947345, 1.114099e-07, 0.1869148, -2.228198e-07)
 
 [node name="Hydrant" type="Node3D" parent="EditorPreview/Street/Chunk5" unique_id=1650203048]
@@ -2963,19 +2961,19 @@ mesh = SubResource("BoxMesh_akjxb")
 [node name="KenneyProp" type="Node3D" parent="EditorPreview/Street/Chunk5" unique_id=1723709613]
 transform = Transform3D(-0.5192668, 0, 0.8546122, 0, 1, 0, -0.8546122, 0, -0.5192668, -13.581762, 0.12, -104.509995)
 
-[node name="dumpster2" type="Node3D" parent="EditorPreview/Street/Chunk5/KenneyProp" unique_id=1862185090 instance=ExtResource("17_augu2")]
+[node name="dumpster2" parent="EditorPreview/Street/Chunk5/KenneyProp" unique_id=1862185090 instance=ExtResource("17_augu2")]
 transform = Transform3D(6.206976, 0, 0, 0, 6.206976, 0, 0, 0, 6.206976, -0.046552368, 0, -7.399292e-07)
 
 [node name="Node3D2" type="Node3D" parent="EditorPreview/Street/Chunk5" unique_id=1984086855]
 transform = Transform3D(0.91871756, 0, 0.39491516, 0, 1, 0, -0.39491516, 0, 0.91871756, 3.729003, 0, -108.66161)
 
-[node name="building-small-d2" type="Node3D" parent="EditorPreview/Street/Chunk5/Node3D2" unique_id=1575991112 instance=ExtResource("14_ids8r")]
+[node name="building-small-d2" parent="EditorPreview/Street/Chunk5/Node3D2" unique_id=1575991112 instance=ExtResource("14_ids8r")]
 transform = Transform3D(9.142858, 0, 0, 0, 9.142858, 0, 0, 0, 9.142858, 0, 0, -0.22857124)
 
 [node name="Node3D3" type="Node3D" parent="EditorPreview/Street/Chunk5" unique_id=1251833081]
 transform = Transform3D(0.8668394, 0, 0.49858746, 0, 1, 0, -0.49858746, 0, 0.8668394, -2.3373966, 0, -118.242935)
 
-[node name="building-type-m2" type="Node3D" parent="EditorPreview/Street/Chunk5/Node3D3" unique_id=449516753 instance=ExtResource("26_152kg")]
+[node name="building-type-m2" parent="EditorPreview/Street/Chunk5/Node3D3" unique_id=449516753 instance=ExtResource("26_152kg")]
 transform = Transform3D(5.9483476, 0, 0, 0, 5.9483476, 0, 0, 0, 5.9483476, 0, 0, 3.5454914e-07)
 
 [node name="StreetLamp" type="Node3D" parent="EditorPreview/Street/Chunk5" unique_id=2128053605]
@@ -3024,13 +3022,13 @@ mesh = SubResource("ArrayMesh_7x15c")
 [node name="Building" type="Node3D" parent="EditorPreview/Street/Chunk6" unique_id=1391643238]
 transform = Transform3D(0.80331147, 0, 0.5955591, 0, 1, 0, -0.5955591, 0, 0.80331147, -25.871176, 0, -114.73556)
 
-[node name="building-c2" type="Node3D" parent="EditorPreview/Street/Chunk6/Building" unique_id=1529678978 instance=ExtResource("23_od4ux")]
+[node name="building-c2" parent="EditorPreview/Street/Chunk6/Building" unique_id=1529678978 instance=ExtResource("23_od4ux")]
 transform = Transform3D(8.807339, 0, 0, 0, 8.807339, 0, 0, 0, 8.807339, -2.6247915e-07, 0, -5.249583e-07)
 
 [node name="Node3D" type="Node3D" parent="EditorPreview/Street/Chunk6" unique_id=1068988452]
 transform = Transform3D(0.7289876, 0, 0.6845269, 0, 1, 0, -0.6845269, 0, 0.7289876, -31.70488, 0, -121.18284)
 
-[node name="building-skyscraper-b2" type="Node3D" parent="EditorPreview/Street/Chunk6/Node3D" unique_id=1312751938 instance=ExtResource("11_bu4jf")]
+[node name="building-skyscraper-b2" parent="EditorPreview/Street/Chunk6/Node3D" unique_id=1312751938 instance=ExtResource("11_bu4jf")]
 transform = Transform3D(7.0588245, 0, 0, 0, 7.0588245, 0, 0, 0, 7.0588245, 5.0488648e-06, 0, 0)
 
 [node name="StreetLamp" type="Node3D" parent="EditorPreview/Street/Chunk6" unique_id=1172367715]
@@ -3072,7 +3070,7 @@ mesh = SubResource("BoxMesh_akjxb")
 [node name="KenneyProp" type="Node3D" parent="EditorPreview/Street/Chunk6" unique_id=528179883]
 transform = Transform3D(-0.44578186, 0, 0.89514166, 0, 1, 0, -0.89514166, 0, -0.44578186, -19.55758, 0.12, -114.980896)
 
-[node name="flower_redA2" type="Node3D" parent="EditorPreview/Street/Chunk6/KenneyProp" unique_id=1340297529 instance=ExtResource("6_vc5cj")]
+[node name="flower_redA2" parent="EditorPreview/Street/Chunk6/KenneyProp" unique_id=1340297529 instance=ExtResource("6_vc5cj")]
 transform = Transform3D(0.96055627, 0, -1.4139965, 0, 1.7094017, 0, 1.4139965, 0, 0.96055627, 0.024000205, 0.08547009, 0.035329737)
 
 [node name="Pedestrian" type="Node3D" parent="EditorPreview/Street/Chunk6" unique_id=574120456]
@@ -3116,13 +3114,13 @@ mesh = SubResource("BoxMesh_engxj")
 [node name="Node3D2" type="Node3D" parent="EditorPreview/Street/Chunk6" unique_id=529352302]
 transform = Transform3D(0.80331147, 0, 0.5955591, 0, 1, 0, -0.5955591, 0, 0.80331147, -7.853837, 0, -128.09326)
 
-[node name="building-garage2" type="Node3D" parent="EditorPreview/Street/Chunk6/Node3D2" unique_id=681383076 instance=ExtResource("15_dnhof")]
+[node name="building-garage2" parent="EditorPreview/Street/Chunk6/Node3D2" unique_id=681383076 instance=ExtResource("15_dnhof")]
 transform = Transform3D(9.6, 0, 0, 0, 9.6, 0, 0, 0, 9.6, 0, 0, 0)
 
 [node name="Node3D3" type="Node3D" parent="EditorPreview/Street/Chunk6" unique_id=277734260]
 transform = Transform3D(0.7289876, 0, 0.6845269, 0, 1, 0, -0.6845269, 0, 0.7289876, -16.077047, 0, -135.85754)
 
-[node name="building-type-g2" type="Node3D" parent="EditorPreview/Street/Chunk6/Node3D3" unique_id=403559368 instance=ExtResource("27_r4e17")]
+[node name="building-type-g2" parent="EditorPreview/Street/Chunk6/Node3D3" unique_id=403559368 instance=ExtResource("27_r4e17")]
 transform = Transform3D(5.0989523, 0, 0, 0, 5.0989523, 0, 0, 0, 5.0989523, 0, 0, 0)
 
 [node name="Bin" type="Node3D" parent="EditorPreview/Street/Chunk6" unique_id=773492074]
@@ -3141,7 +3139,7 @@ mesh = SubResource("CylinderMesh_0bdy2")
 [node name="Node3D4" type="Node3D" parent="EditorPreview/Street/Chunk6" unique_id=404975657]
 transform = Transform3D(0.67898935, 0, -0.73414814, 0, 1, 0, 0.73414814, 0, 0.67898935, -18.739311, 0.12, -130.63092)
 
-[node name="road-sign-warning2" type="Node3D" parent="EditorPreview/Street/Chunk6/Node3D4" unique_id=1097279825 instance=ExtResource("16_1v6qk")]
+[node name="road-sign-warning2" parent="EditorPreview/Street/Chunk6/Node3D4" unique_id=1097279825 instance=ExtResource("16_1v6qk")]
 transform = Transform3D(4.8138413, 0, 0, 0, 4.8138413, 0, 0, 0, 4.8138413, 0.06054358, 0, 0)
 
 [node name="Chunk7" type="Node3D" parent="EditorPreview/Street" unique_id=1047944774]
@@ -3154,13 +3152,13 @@ mesh = SubResource("ArrayMesh_jppe7")
 [node name="Building" type="Node3D" parent="EditorPreview/Street/Chunk7" unique_id=1039408083]
 transform = Transform3D(0.6448667, 0, 0.7642951, 0, 1, 0, -0.7642951, 0, 0.6448667, -37.310547, 0, -127.95805)
 
-[node name="building-e2" type="Node3D" parent="EditorPreview/Street/Chunk7/Building" unique_id=360451538 instance=ExtResource("28_y57op")]
+[node name="building-e2" parent="EditorPreview/Street/Chunk7/Building" unique_id=360451538 instance=ExtResource("28_y57op")]
 transform = Transform3D(4.975685, 0, 0, 0, 4.975685, 0, 0, 0, 4.975685, -2.9657394e-07, 0, -5.931479e-07)
 
 [node name="Node3D" type="Node3D" parent="EditorPreview/Street/Chunk7" unique_id=1009606672]
 transform = Transform3D(0.55207914, 0, 0.8337917, 0, 1, 0, -0.8337917, 0, 0.55207914, -44.612625, 0, -132.82668)
 
-[node name="building-type-g2" type="Node3D" parent="EditorPreview/Street/Chunk7/Node3D" unique_id=2090583524 instance=ExtResource("27_r4e17")]
+[node name="building-type-g2" parent="EditorPreview/Street/Chunk7/Node3D" unique_id=2090583524 instance=ExtResource("27_r4e17")]
 transform = Transform3D(6.291779, 0, 0, 0, 6.291779, 0, 0, 0, 6.291779, 0, 0, 0)
 
 [node name="Tree" type="Node3D" parent="EditorPreview/Street/Chunk7" unique_id=1709800026]
@@ -3168,7 +3166,7 @@ transform = Transform3D(0.54282904, 0, 0.7781469, 0, 0.948776, 0, -0.7781469, 0,
 
 [node name="Node3D" type="Node3D" parent="EditorPreview/Street/Chunk7/Tree" unique_id=1323880279]
 
-[node name="tree_thin2" type="Node3D" parent="EditorPreview/Street/Chunk7/Tree/Node3D" unique_id=980820067 instance=ExtResource("13_0loja")]
+[node name="tree_thin2" parent="EditorPreview/Street/Chunk7/Tree/Node3D" unique_id=980820067 instance=ExtResource("13_0loja")]
 transform = Transform3D(0.20794198, 0, -2.2587202, 0, 2.2682717, 0, 2.2587202, 0, 0.20794198, 0.1110558, 0.11341359, -0.19875947)
 
 [node name="Hydrant" type="Node3D" parent="EditorPreview/Street/Chunk7" unique_id=1355179667]
@@ -3192,7 +3190,7 @@ mesh = SubResource("BoxMesh_akjxb")
 [node name="KenneyProp" type="Node3D" parent="EditorPreview/Street/Chunk7" unique_id=635502524]
 transform = Transform3D(-0.76058185, 0, 0.64924204, 0, 1, 0, -0.64924204, 0, -0.76058185, -36.272797, 0.12, -134.6756)
 
-[node name="traffic-light2" type="Node3D" parent="EditorPreview/Street/Chunk7/KenneyProp" unique_id=617433306 instance=ExtResource("9_j2jfr")]
+[node name="traffic-light2" parent="EditorPreview/Street/Chunk7/KenneyProp" unique_id=617433306 instance=ExtResource("9_j2jfr")]
 transform = Transform3D(8.15534, 0, 0, 0, 8.15534, 0, 0, 0, 8.15534, 0.11254372, -1.8396964e-16, 0)
 
 [node name="Pedestrian" type="Node3D" parent="EditorPreview/Street/Chunk7" unique_id=750637504]
@@ -3236,7 +3234,7 @@ mesh = SubResource("BoxMesh_engxj")
 [node name="Node3D2" type="Node3D" parent="EditorPreview/Street/Chunk7" unique_id=90306025]
 transform = Transform3D(0.59948087, 0, 0.8003891, 0, 1, 0, -0.8003891, 0, 0.59948087, -28.31509, 0, -147.30045)
 
-[node name="building-a2" type="Node3D" parent="EditorPreview/Street/Chunk7/Node3D2" unique_id=198069537 instance=ExtResource("29_mlv25")]
+[node name="building-a2" parent="EditorPreview/Street/Chunk7/Node3D2" unique_id=198069537 instance=ExtResource("29_mlv25")]
 transform = Transform3D(9.2044735, 0, 0, 0, 9.2044735, 0, 0, 0, 9.2044735, -2.743147e-07, 0, -2.743147e-07)
 
 [node name="StreetLamp" type="Node3D" parent="EditorPreview/Street/Chunk7" unique_id=283123033]
@@ -3278,7 +3276,7 @@ mesh = SubResource("BoxMesh_akjxb")
 [node name="Node3D4" type="Node3D" parent="EditorPreview/Street/Chunk7" unique_id=621708051]
 transform = Transform3D(0.8445866, 0, -0.5354189, 0, 1, 0, 0.5354189, 0, 0.8445866, -36.01476, 0.12, -147.11325)
 
-[node name="plant_bushLarge2" type="Node3D" parent="EditorPreview/Street/Chunk7/Node3D4" unique_id=687130861 instance=ExtResource("30_a82wo")]
+[node name="plant_bushLarge2" parent="EditorPreview/Street/Chunk7/Node3D4" unique_id=687130861 instance=ExtResource("30_a82wo")]
 transform = Transform3D(-2.320911, 0, -3.4327617, 0, 4.143728, 0, 3.4327617, 0, -2.320911, 0, 0.20718639, 0)
 
 [node name="SleepyBench" type="Node3D" parent="EditorPreview/Street/Chunk7" unique_id=1940819630]
@@ -3386,7 +3384,7 @@ mesh = SubResource("ArrayMesh_br3j2")
 [node name="Building" type="Node3D" parent="EditorPreview/Street/Chunk8" unique_id=1625979926]
 transform = Transform3D(0.39940372, 0, 0.91677517, 0, 1, 0, -0.91677517, 0, 0.39940372, -56.48312, 0, -138.23871)
 
-[node name="building-f2" type="Node3D" parent="EditorPreview/Street/Chunk8/Building" unique_id=204668013 instance=ExtResource("20_t5ykj")]
+[node name="building-f2" parent="EditorPreview/Street/Chunk8/Building" unique_id=204668013 instance=ExtResource("20_t5ykj")]
 transform = Transform3D(13.044493, 0, 0, 0, 13.044493, 0, 0, 0, 13.044493, 0, 0, -1.5550247e-06)
 
 [node name="StreetLamp" type="Node3D" parent="EditorPreview/Street/Chunk8" unique_id=393091493]
@@ -3412,13 +3410,13 @@ transform = Transform3D(0.3622829, 0, 0.8790443, 0, 0.95077217, 0, -0.8790443, 0
 
 [node name="Node3D" type="Node3D" parent="EditorPreview/Street/Chunk8/Tree" unique_id=983758386]
 
-[node name="tree_default2" type="Node3D" parent="EditorPreview/Street/Chunk8/Tree/Node3D" unique_id=1691500382 instance=ExtResource("8_ty1g6")]
+[node name="tree_default2" parent="EditorPreview/Street/Chunk8/Tree/Node3D" unique_id=1691500382 instance=ExtResource("8_ty1g6")]
 transform = Transform3D(-0.54914725, 0, -2.1167397, 0, 2.1868126, 0, 2.1167397, 0, -0.54914725, 0, 0.10934064, 0)
 
 [node name="KenneyProp" type="Node3D" parent="EditorPreview/Street/Chunk8" unique_id=378864313]
 transform = Transform3D(-0.85715765, 0, 0.51505417, 0, 1, 0, -0.51505417, 0, -0.85715765, -49.57495, 0.12, -143.03825)
 
-[node name="flower_purpleA2" type="Node3D" parent="EditorPreview/Street/Chunk8/KenneyProp" unique_id=724698294 instance=ExtResource("31_gdvew")]
+[node name="flower_purpleA2" parent="EditorPreview/Street/Chunk8/KenneyProp" unique_id=724698294 instance=ExtResource("31_gdvew")]
 transform = Transform3D(1.2521733, 0, -1.6380817, 0, 2.0618558, 0, 1.6380817, 0, 1.2521733, 0.031286478, 0.10309279, 0.040928684)
 
 [node name="StrayCat" type="Node3D" parent="EditorPreview/Street/Chunk8" unique_id=196135558]
@@ -3462,13 +3460,13 @@ mesh = SubResource("BoxMesh_ga3rw")
 [node name="Node3D" type="Node3D" parent="EditorPreview/Street/Chunk8" unique_id=1615622129]
 transform = Transform3D(0.45187214, 0, 0.8920827, 0, 1, 0, -0.8920827, 0, 0.45187214, -42.402836, 0, -156.48793)
 
-[node name="building-skyscraper-a2" type="Node3D" parent="EditorPreview/Street/Chunk8/Node3D" unique_id=2109271777 instance=ExtResource("18_tm6hj")]
+[node name="building-skyscraper-a2" parent="EditorPreview/Street/Chunk8/Node3D" unique_id=2109271777 instance=ExtResource("18_tm6hj")]
 transform = Transform3D(6.527176, 0, 0, 0, 6.527176, 0, 0, 0, 6.527176, 3.1124e-06, 0, 0)
 
 [node name="Node3D2" type="Node3D" parent="EditorPreview/Street/Chunk8" unique_id=1813121340]
 transform = Transform3D(0.34559223, 0, 0.9383848, 0, 1, 0, -0.9383848, 0, 0.34559223, -52.916428, 0, -160.40756)
 
-[node name="building-small-d2" type="Node3D" parent="EditorPreview/Street/Chunk8/Node3D2" unique_id=1003565640 instance=ExtResource("14_ids8r")]
+[node name="building-small-d2" parent="EditorPreview/Street/Chunk8/Node3D2" unique_id=1003565640 instance=ExtResource("14_ids8r")]
 transform = Transform3D(7.6634254, 0, 0, 0, 7.6634254, 0, 0, 0, 7.6634254, 0, 0, -0.19158545)
 
 [node name="Node3D3" type="Node3D" parent="EditorPreview/Street/Chunk8" unique_id=1227749257]
@@ -3476,7 +3474,7 @@ transform = Transform3D(0.342147, 0, 0.8774356, 0, 0.9417844, 0, -0.8774356, 0, 
 
 [node name="Node3D" type="Node3D" parent="EditorPreview/Street/Chunk8/Node3D3" unique_id=1849899714]
 
-[node name="tree_oak2" type="Node3D" parent="EditorPreview/Street/Chunk8/Node3D3/Node3D" unique_id=1657265836 instance=ExtResource("21_e755i")]
+[node name="tree_oak2" parent="EditorPreview/Street/Chunk8/Node3D3/Node3D" unique_id=1657265836 instance=ExtResource("21_e755i")]
 transform = Transform3D(-0.44968066, 0, -3.531067, 0, 3.559585, 0, 3.531067, 0, -0.44968066, 0, 0.17797926, 2.121678e-07)
 
 [node name="Hydrant" type="Node3D" parent="EditorPreview/Street/Chunk8" unique_id=1442911231]
@@ -3639,7 +3637,7 @@ mesh = SubResource("ArrayMesh_3etyj")
 [node name="Building" type="Node3D" parent="EditorPreview/Street/Chunk9" unique_id=35631824]
 transform = Transform3D(0.25007364, 0, 0.9682268, 0, 1, 0, -0.9682268, 0, 0.25007364, -73.73741, 0, -143.7676)
 
-[node name="building-garage2" type="Node3D" parent="EditorPreview/Street/Chunk9/Building" unique_id=1702160608 instance=ExtResource("15_dnhof")]
+[node name="building-garage2" parent="EditorPreview/Street/Chunk9/Building" unique_id=1702160608 instance=ExtResource("15_dnhof")]
 transform = Transform3D(10.737476, 0, 0, 0, 10.737476, 0, 0, 0, 10.737476, 0, 0, 0)
 
 [node name="Tree" type="Node3D" parent="EditorPreview/Street/Chunk9" unique_id=633943496]
@@ -3647,7 +3645,7 @@ transform = Transform3D(0.24895631, 0, 0.96390074, 0, 0.995532, 0, -0.96390074, 
 
 [node name="Node3D" type="Node3D" parent="EditorPreview/Street/Chunk9/Tree" unique_id=210564652]
 
-[node name="tree_default2" type="Node3D" parent="EditorPreview/Street/Chunk9/Tree/Node3D" unique_id=34838434 instance=ExtResource("8_ty1g6")]
+[node name="tree_default2" parent="EditorPreview/Street/Chunk9/Tree/Node3D" unique_id=34838434 instance=ExtResource("8_ty1g6")]
 transform = Transform3D(-1.5050081, 0, -1.2591672, 0, 1.9622822, 0, 1.2591672, 0, -1.5050081, 0, 0.09811411, 0)
 
 [node name="Hydrant" type="Node3D" parent="EditorPreview/Street/Chunk9" unique_id=663257856]
@@ -3671,7 +3669,7 @@ mesh = SubResource("BoxMesh_akjxb")
 [node name="KenneyProp" type="Node3D" parent="EditorPreview/Street/Chunk9" unique_id=1678839818]
 transform = Transform3D(-0.94400895, 0, 0.32991993, 0, 1, 0, -0.32991993, 0, -0.94400895, -79.35211, 0.12, -152.62175)
 
-[node name="flower_redA2" type="Node3D" parent="EditorPreview/Street/Chunk9/KenneyProp" unique_id=926405853 instance=ExtResource("6_vc5cj")]
+[node name="flower_redA2" parent="EditorPreview/Street/Chunk9/KenneyProp" unique_id=926405853 instance=ExtResource("6_vc5cj")]
 transform = Transform3D(-0.755013, 0, -1.5336263, 0, 1.7094017, 0, 1.5336263, 0, -0.755013, -0.018864552, 0.08547009, 0.038318783)
 
 [node name="SleepyBench" type="Node3D" parent="EditorPreview/Street/Chunk9" unique_id=1339596828]
@@ -3772,7 +3770,7 @@ mesh = SubResource("BoxMesh_engxj")
 [node name="Node3D" type="Node3D" parent="EditorPreview/Street/Chunk9" unique_id=1016278248]
 transform = Transform3D(0.25007364, 0, 0.9682268, 0, 1, 0, -0.9682268, 0, 0.25007364, -67.962166, 0, -166.128)
 
-[node name="building-b2" type="Node3D" parent="EditorPreview/Street/Chunk9/Node3D" unique_id=1536690936 instance=ExtResource("32_kjtvk")]
+[node name="building-b2" parent="EditorPreview/Street/Chunk9/Node3D" unique_id=1536690936 instance=ExtResource("32_kjtvk")]
 transform = Transform3D(10.56793, 0, 0, 0, 10.56793, 0, 0, 0, 10.56793, -3.1494886e-07, 0, -3.1494886e-07)
 
 [node name="StreetLamp" type="Node3D" parent="EditorPreview/Street/Chunk9" unique_id=2043899604]
@@ -3798,7 +3796,7 @@ transform = Transform3D(0.26240113, 0, 1.0159559, 0, 1.0492954, 0, -1.0159559, 0
 
 [node name="Node3D" type="Node3D" parent="EditorPreview/Street/Chunk9/Node3D2" unique_id=1602724027]
 
-[node name="tree_oak2" type="Node3D" parent="EditorPreview/Street/Chunk9/Node3D2/Node3D" unique_id=385303876 instance=ExtResource("21_e755i")]
+[node name="tree_oak2" parent="EditorPreview/Street/Chunk9/Node3D2/Node3D" unique_id=385303876 instance=ExtResource("21_e755i")]
 transform = Transform3D(-3.405049, 0, -0.77629864, 0, 3.4924202, 0, 0.77629864, 0, -3.405049, -2.0816447e-07, 0.17462102, 1.0408223e-07)
 
 [node name="Node3D3" type="Node3D" parent="EditorPreview/Street/Chunk9" unique_id=241262119]
@@ -3851,14 +3849,14 @@ transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.65, 0, 0)
 
 [node name="Node3D" type="Node3D" parent="EditorPreview/Obstacles/Low_กระโดดข้าม/Cone/Node3D" unique_id=1633114482]
 
-[node name="construction-cone2" type="Node3D" parent="EditorPreview/Obstacles/Low_กระโดดข้าม/Cone/Node3D/Node3D" unique_id=1663321540 instance=ExtResource("33_xrs0c")]
+[node name="construction-cone2" parent="EditorPreview/Obstacles/Low_กระโดดข้าม/Cone/Node3D/Node3D" unique_id=1663321540 instance=ExtResource("33_xrs0c")]
 transform = Transform3D(8, 0, 0, 0, 8, 0, 0, 0, 8, 0, 0, 0)
 
 [node name="Node3D2" type="Node3D" parent="EditorPreview/Obstacles/Low_กระโดดข้าม/Cone" unique_id=422950143]
 
 [node name="Node3D" type="Node3D" parent="EditorPreview/Obstacles/Low_กระโดดข้าม/Cone/Node3D2" unique_id=177839809]
 
-[node name="construction-cone2" type="Node3D" parent="EditorPreview/Obstacles/Low_กระโดดข้าม/Cone/Node3D2/Node3D" unique_id=1315751313 instance=ExtResource("33_xrs0c")]
+[node name="construction-cone2" parent="EditorPreview/Obstacles/Low_กระโดดข้าม/Cone/Node3D2/Node3D" unique_id=1315751313 instance=ExtResource("33_xrs0c")]
 transform = Transform3D(8, 0, 0, 0, 8, 0, 0, 0, 8, 0, 0, 0)
 
 [node name="Node3D3" type="Node3D" parent="EditorPreview/Obstacles/Low_กระโดดข้าม/Cone" unique_id=991762372]
@@ -3866,7 +3864,7 @@ transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.65, 0, 0)
 
 [node name="Node3D" type="Node3D" parent="EditorPreview/Obstacles/Low_กระโดดข้าม/Cone/Node3D3" unique_id=714618587]
 
-[node name="construction-cone2" type="Node3D" parent="EditorPreview/Obstacles/Low_กระโดดข้าม/Cone/Node3D3/Node3D" unique_id=268432003 instance=ExtResource("33_xrs0c")]
+[node name="construction-cone2" parent="EditorPreview/Obstacles/Low_กระโดดข้าม/Cone/Node3D3/Node3D" unique_id=268432003 instance=ExtResource("33_xrs0c")]
 transform = Transform3D(8, 0, 0, 0, 8, 0, 0, 0, 8, 0, 0, 0)
 
 [node name="Crates" type="Node3D" parent="EditorPreview/Obstacles/Low_กระโดดข้าม" unique_id=584875095]
@@ -3875,13 +3873,13 @@ transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 2.2, 0, -14)
 [node name="Node3D" type="Node3D" parent="EditorPreview/Obstacles/Low_กระโดดข้าม/Crates" unique_id=555086315]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.4, 0, 0)
 
-[node name="box2" type="Node3D" parent="EditorPreview/Obstacles/Low_กระโดดข้าม/Crates/Node3D" unique_id=899464746 instance=ExtResource("34_xljpf")]
+[node name="box2" parent="EditorPreview/Obstacles/Low_กระโดดข้าม/Crates/Node3D" unique_id=899464746 instance=ExtResource("34_xljpf")]
 transform = Transform3D(1.048951, 0, 0, 0, 1.048951, 0, 0, 0, 1.048951, 0, 0, 0)
 
 [node name="Node3D2" type="Node3D" parent="EditorPreview/Obstacles/Low_กระโดดข้าม/Crates" unique_id=1077457376]
 transform = Transform3D(0.87758255, 0, 0.47942555, 0, 1, 0, -0.47942555, 0, 0.87758255, 0.45, 0, 0.05)
 
-[node name="box2" type="Node3D" parent="EditorPreview/Obstacles/Low_กระโดดข้าม/Crates/Node3D2" unique_id=2045847683 instance=ExtResource("34_xljpf")]
+[node name="box2" parent="EditorPreview/Obstacles/Low_กระโดดข้าม/Crates/Node3D2" unique_id=2045847683 instance=ExtResource("34_xljpf")]
 transform = Transform3D(0.83916086, 0, 0, 0, 0.83916086, 0, 0, 0, 0.83916086, 0, 0, 0)
 
 [node name="Bench" type="Node3D" parent="EditorPreview/Obstacles/Low_กระโดดข้าม" unique_id=1125535725]
@@ -3913,13 +3911,13 @@ transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 2.2, 0, -60)
 [node name="Node3D" type="Node3D" parent="EditorPreview/Obstacles/Low_กระโดดข้าม/Barrier" unique_id=1659257111]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.475, 0, 0)
 
-[node name="construction-barrier2" type="Node3D" parent="EditorPreview/Obstacles/Low_กระโดดข้าม/Barrier/Node3D" unique_id=1619139133 instance=ExtResource("35_j4bwh")]
+[node name="construction-barrier2" parent="EditorPreview/Obstacles/Low_กระโดดข้าม/Barrier/Node3D" unique_id=1619139133 instance=ExtResource("35_j4bwh")]
 transform = Transform3D(7.3076925, 0, 0, 0, 7.3076925, 0, 0, 0, 7.3076925, 0, 0, 0)
 
 [node name="Node3D2" type="Node3D" parent="EditorPreview/Obstacles/Low_กระโดดข้าม/Barrier" unique_id=801950751]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.475, 0, 0)
 
-[node name="construction-barrier2" type="Node3D" parent="EditorPreview/Obstacles/Low_กระโดดข้าม/Barrier/Node3D2" unique_id=916790963 instance=ExtResource("35_j4bwh")]
+[node name="construction-barrier2" parent="EditorPreview/Obstacles/Low_กระโดดข้าม/Barrier/Node3D2" unique_id=916790963 instance=ExtResource("35_j4bwh")]
 transform = Transform3D(7.3076925, 0, 0, 0, 7.3076925, 0, 0, 0, 7.3076925, 0, 0, 0)
 
 [node name="TrashBags" type="Node3D" parent="EditorPreview/Obstacles/Low_กระโดดข้าม" unique_id=983102243]
@@ -3943,14 +3941,14 @@ transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.65, 0, 0)
 
 [node name="Node3D" type="Node3D" parent="EditorPreview/Obstacles/Low_กระโดดข้าม/Node3D/Node3D" unique_id=753055483]
 
-[node name="construction-cone2" type="Node3D" parent="EditorPreview/Obstacles/Low_กระโดดข้าม/Node3D/Node3D/Node3D" unique_id=318236433 instance=ExtResource("33_xrs0c")]
+[node name="construction-cone2" parent="EditorPreview/Obstacles/Low_กระโดดข้าม/Node3D/Node3D/Node3D" unique_id=318236433 instance=ExtResource("33_xrs0c")]
 transform = Transform3D(8, 0, 0, 0, 8, 0, 0, 0, 8, 0, 0, 0)
 
 [node name="Node3D2" type="Node3D" parent="EditorPreview/Obstacles/Low_กระโดดข้าม/Node3D" unique_id=2031039940]
 
 [node name="Node3D" type="Node3D" parent="EditorPreview/Obstacles/Low_กระโดดข้าม/Node3D/Node3D2" unique_id=631633239]
 
-[node name="construction-cone2" type="Node3D" parent="EditorPreview/Obstacles/Low_กระโดดข้าม/Node3D/Node3D2/Node3D" unique_id=623193422 instance=ExtResource("33_xrs0c")]
+[node name="construction-cone2" parent="EditorPreview/Obstacles/Low_กระโดดข้าม/Node3D/Node3D2/Node3D" unique_id=623193422 instance=ExtResource("33_xrs0c")]
 transform = Transform3D(8, 0, 0, 0, 8, 0, 0, 0, 8, 0, 0, 0)
 
 [node name="Node3D3" type="Node3D" parent="EditorPreview/Obstacles/Low_กระโดดข้าม/Node3D" unique_id=693661635]
@@ -3958,7 +3956,7 @@ transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.65, 0, 0)
 
 [node name="Node3D" type="Node3D" parent="EditorPreview/Obstacles/Low_กระโดดข้าม/Node3D/Node3D3" unique_id=908054160]
 
-[node name="construction-cone2" type="Node3D" parent="EditorPreview/Obstacles/Low_กระโดดข้าม/Node3D/Node3D3/Node3D" unique_id=1365341916 instance=ExtResource("33_xrs0c")]
+[node name="construction-cone2" parent="EditorPreview/Obstacles/Low_กระโดดข้าม/Node3D/Node3D3/Node3D" unique_id=1365341916 instance=ExtResource("33_xrs0c")]
 transform = Transform3D(8, 0, 0, 0, 8, 0, 0, 0, 8, 0, 0, 0)
 
 [node name="Node3D2" type="Node3D" parent="EditorPreview/Obstacles/Low_กระโดดข้าม" unique_id=264559630]
@@ -3967,13 +3965,13 @@ transform = Transform3D(0.52273667, 0, 0.85249424, 0, 1, 0, -0.85249424, 0, 0.52
 [node name="Node3D" type="Node3D" parent="EditorPreview/Obstacles/Low_กระโดดข้าม/Node3D2" unique_id=1018782130]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.4, 0, 0)
 
-[node name="box2" type="Node3D" parent="EditorPreview/Obstacles/Low_กระโดดข้าม/Node3D2/Node3D" unique_id=1089062938 instance=ExtResource("34_xljpf")]
+[node name="box2" parent="EditorPreview/Obstacles/Low_กระโดดข้าม/Node3D2/Node3D" unique_id=1089062938 instance=ExtResource("34_xljpf")]
 transform = Transform3D(1.048951, 0, 0, 0, 1.048951, 0, 0, 0, 1.048951, 0, 0, 0)
 
 [node name="Node3D2" type="Node3D" parent="EditorPreview/Obstacles/Low_กระโดดข้าม/Node3D2" unique_id=1594655116]
 transform = Transform3D(0.87758255, 0, 0.47942555, 0, 1, 0, -0.47942555, 0, 0.87758255, 0.45, 0, 0.05)
 
-[node name="box2" type="Node3D" parent="EditorPreview/Obstacles/Low_กระโดดข้าม/Node3D2/Node3D2" unique_id=1572623757 instance=ExtResource("34_xljpf")]
+[node name="box2" parent="EditorPreview/Obstacles/Low_กระโดดข้าม/Node3D2/Node3D2" unique_id=1572623757 instance=ExtResource("34_xljpf")]
 transform = Transform3D(0.83916086, 0, 0, 0, 0.83916086, 0, 0, 0, 0.83916086, 0, 0, 0)
 
 [node name="High_ก้มมุด" type="Node3D" parent="EditorPreview/Obstacles" unique_id=432823890]
@@ -4271,7 +4269,7 @@ mesh = SubResource("SphereMesh_gf1sy")
 [node name="Car" type="Node3D" parent="EditorPreview/Obstacles/Traffic_สลับเลนหลบ" unique_id=654552152]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, -24)
 
-[node name="vehicle-truck-green" type="Node3D" parent="EditorPreview/Obstacles/Traffic_สลับเลนหลบ/Car" unique_id=1572210913 instance=ExtResource("36_ksmap")]
+[node name="vehicle-truck-green" parent="EditorPreview/Obstacles/Traffic_สลับเลนหลบ/Car" unique_id=1572210913 instance=ExtResource("36_ksmap")]
 transform = Transform3D(1.2666663, 0, 0, 0, 1.2666663, 0, 0, 0, 1.2666663, 2.2649759e-07, 0, -0.061489567)
 
 [node name="Pedestrian" type="Node3D" parent="EditorPreview/Obstacles/Traffic_สลับเลนหลบ" unique_id=590160552]
@@ -4687,13 +4685,13 @@ mesh = SubResource("CylinderMesh_s4wtv")
 [node name="Node3D" type="Node3D" parent="EditorPreview/Obstacles/Traffic_สลับเลนหลบ" unique_id=824550140]
 transform = Transform3D(0.99973094, 0, 0.02319652, 0, 1, 0, -0.02319652, 0, 0.99973094, -2.2226057, 0, -71.94879)
 
-[node name="taxi" type="Node3D" parent="EditorPreview/Obstacles/Traffic_สลับเลนหลบ/Node3D" unique_id=285363703 instance=ExtResource("37_ygd8o")]
+[node name="taxi" parent="EditorPreview/Obstacles/Traffic_สลับเลนหลบ/Node3D" unique_id=285363703 instance=ExtResource("37_ygd8o")]
 transform = Transform3D(1.2666667, 0, 0, 0, 1.2666667, 0, 0, 0, 1.2666667, 0, 0, 0.031666636)
 
 [node name="Node3D2" type="Node3D" parent="EditorPreview/Obstacles/Traffic_สลับเลนหลบ" unique_id=2017301005]
 transform = Transform3D(0.9400638, 0, 0.34099865, 0, 1, 0, -0.34099865, 0, 0.9400638, -3.0990863, 0, -100.14841)
 
-[node name="taxi" type="Node3D" parent="EditorPreview/Obstacles/Traffic_สลับเลนหลบ/Node3D2" unique_id=791554637 instance=ExtResource("37_ygd8o")]
+[node name="taxi" parent="EditorPreview/Obstacles/Traffic_สลับเลนหลบ/Node3D2" unique_id=791554637 instance=ExtResource("37_ygd8o")]
 transform = Transform3D(1.2666667, 0, 0, 0, 1.2666667, 0, 0, 0, 1.2666667, 0, 0, 0.031666636)
 
 [node name="Node3D3" type="Node3D" parent="EditorPreview/Obstacles/Traffic_สลับเลนหลบ" unique_id=2145982034]
@@ -5509,12 +5507,10 @@ outline_size = 14
 [node name="CollisionShape3D" type="CollisionShape3D" parent="EditorPreview/PowerUps/Area3D2" unique_id=1441113701]
 shape = SubResource("SphereShape3D_7njs0")
 
-[node name="Player" type="CharacterBody3D" parent="." unique_id=1805306492 instance=ExtResource("38_2s0kr")]
-script = ExtResource("39_xaipn")
+[node name="Player" parent="." unique_id=1805306492 instance=ExtResource("38_2s0kr")]
 
-[node name="Teacher" type="Node3D" parent="." unique_id=536244098 instance=ExtResource("40_ndrjj")]
+[node name="Teacher" parent="." unique_id=536244098 instance=ExtResource("40_ndrjj")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 5)
-script = ExtResource("41_ih3m7")
 
 [node name="Camera" type="Camera3D" parent="." unique_id=1698433322]
 transform = Transform3D(1, 0, 0, 0, 0.9542533, 0.2989994, 0, -0.2989994, 0.9542533, 0, 5.4, 11)
