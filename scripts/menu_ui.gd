@@ -108,10 +108,10 @@ func _build_home() -> void:
 	title.add_child(_outlined("SKIP", 112, Color(1, 1, 1)))
 	title.add_child(_outlined("RUN", 112, AMBER))
 
-	var sub := _pill("มิวหนีเรียน!", RED, Color.WHITE, 36)
+	var sub := _pill("มิวต้องไปให้ได้!", RED, Color.WHITE, 36)
 	col.add_child(sub)
 
-	var tagline := _label("แอบข้ามกำแพงโรงเรียน วิ่งหนีครูวินัยฝ่าเมืองยามเช้า\nเก็บเหรียญดาวความดีให้ได้มากที่สุด", FONT_BODY, 23, INK)
+	var tagline := _label("แอบข้ามกำแพงโรงเรียนไปรับน้อง วิ่งหนีครูวินัยฝ่าเมืองยามเช้า\nเก็บเหรียญดาวความดีให้ได้มากที่สุด", FONT_BODY, 23, INK)
 	tagline.autowrap_mode = TextServer.AUTOWRAP_WORD_SMART
 	col.add_child(tagline)
 
@@ -251,7 +251,7 @@ func _open_stats() -> void:
 			grid.add_child(dl)
 			grid.add_child(_label("%d ม." % int(r["dist"]), FONT_BODY, 20, col))
 			grid.add_child(_label(str(int(r["stars"])), FONT_BODY, 20, col))
-			grid.add_child(_label(str(int(r["score"])) +    ("  · สูงสุด" if is_best else ""), FONT_BODY, 20, col))
+			grid.add_child(_label(str(int(r["score"])) + ("  · สูงสุด" if is_best else ""), FONT_BODY, 20, col))
 
 	var lb := Records.leaderboard(5)
 	if lb.size() > 1:
@@ -302,7 +302,7 @@ func _build_credits() -> void:
 	var t := _label("เครดิต", FONT_TITLE, 40, AMBER)
 	t.horizontal_alignment = HORIZONTAL_ALIGNMENT_CENTER
 	v.add_child(t)
-	var g := _label("Skip Run — มิวหนีเรียน", FONT_TITLE, 26, INK)
+	var g := _label("Skip Run — มิวต้องไปให้ได้", FONT_TITLE, 26, INK)
 	g.horizontal_alignment = HORIZONTAL_ALIGNMENT_CENTER
 	v.add_child(g)
 	v.add_child(_label("จัดทำโดย", FONT_TITLE, 22, MUTED))
